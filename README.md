@@ -1,2 +1,8 @@
-# Team-collaboration
-A project used for demonstrating team collaboration.
+TEAM DETAILS
+
+INNOCENT KABWE BSE S2 Y2 2410109
+MULENGA MULENGA BSE S2 Y2 2410605
+MUBIANA SILISHEBO BSE S2 Y2 2410587
+
+MEMBER A, INNOCENT KABWE 
+-Design 
